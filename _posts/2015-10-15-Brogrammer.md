@@ -4,6 +4,6 @@ layout: post
 ---
 
 
-## Brogrammer
+
 
 A swag ass bro with mad development skills.
