@@ -1,6 +1,6 @@
 # Site settings
 title: Broisms
-email: your-email@domain.com
+email: info@broismdictionary.com
 description: > # this means to ignore newlines until "baseurl:"
   Your bro-to source for all broisms. 
 baseurl: "" # the subpath of your site, e.g. /blog/
