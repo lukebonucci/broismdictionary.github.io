@@ -3,4 +3,4 @@ published: true
 layout: post
 ---
 
-44th President and Brommander in Chief. 
+44th US President and Brommander in Chief. 
