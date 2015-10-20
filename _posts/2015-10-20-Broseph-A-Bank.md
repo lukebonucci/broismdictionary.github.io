@@ -3,4 +3,5 @@ published: true
 layout: post
 ---
 
-When you need 100 suits for the price of 20.
+
+Buy 1 get 5 free. Seriously though how shitty are these suits?
