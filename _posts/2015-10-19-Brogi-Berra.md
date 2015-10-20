@@ -1,0 +1,5 @@
+---
+published: false
+---
+
+When you come to a fork in the road, take it. 
