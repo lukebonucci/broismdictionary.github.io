@@ -5,4 +5,5 @@ Published: true
 ---
 
 
-The most communist ass bro.
+
+Paranoid bro. Big fan of purges.
