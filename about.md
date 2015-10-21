@@ -6,4 +6,5 @@ published: true
 ---
 
 
-Broisms is...
+
+BroismDictionary is the largest compilation of broisms on the internet. 
