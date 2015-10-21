@@ -7,4 +7,5 @@ published: true
 
 
 
-BroismDictionary is the largest compilation of broisms on the internet. 
+
+BroismDictionary is the largest compilation of broisms on the planet.
