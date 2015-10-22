@@ -4,4 +4,5 @@ layout: post
 ---
 
 
-It's cubism bro.
+"What ya workin' on there Pabro?"
+"It's Cubism bro."
